@@ -1,0 +1,6 @@
+#firstly, use this commands:
+#apt-get clean
+#apt-get update
+#apt-get install openssh-serve
+
+sudo service ssh status

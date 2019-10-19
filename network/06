@@ -1,0 +1,4 @@
+cat /var/run/resolv.conf
+
+#resolv.conf - provide access to the DNS. Soooo, this file contains information abaut it
+#Thank for Sherlock Holmes!
